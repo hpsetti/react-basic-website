@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # react-basic-website
 A Basic React Website with React Router
 =======
@@ -72,4 +72,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
->>>>>>> 908a0fdafae185b15771b85827d644f66e22545e
+
